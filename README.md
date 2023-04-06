@@ -22,3 +22,10 @@ The maps include eight land cover classes:
 
 10: Snow/ice
 
+[Google Drive](https://drive.google.com/drive/folders/1YwsFQmYNoC3wAG2AugLXGXwoonLep0u7?usp=share_link)
+
+[Zenodo](https://zenodo.org/record/7745603#.ZC54CXYzYuU)
+
+The dataset is provided for research purposes only. If you use this dataset in your research, please cite the following article:
+
+Liu, Yinhe, et al. "Cross-resolution national-scale land-cover mapping based on noisy label learning: A case study of China." International Journal of Applied Earth Observation and Geoinformation 118 (2023): 103265.
