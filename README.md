@@ -34,8 +34,8 @@ If you use the CRLC dataset in your research, please cite the following article:
 
 Liu, Yinhe, et al. "Cross-resolution national-scale land-cover mapping based on noisy label learning: A case study of China." International Journal of Applied Earth Observation and Geoinformation 118 (2023): 103265.
 
-Any commercial use is not allowed.
-
 ## More
 
 You can find more resources and datasets from our group on our website: http://rsidea.whu.edu.cn/resource_sharing.htm.
+
+Any commercial use is not allowed.
