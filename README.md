@@ -29,6 +29,8 @@ You can download the CRLC maps from the following links:
 
 [Baidu Drive](https://pan.baidu.com/s/1KW6h93jk8t1mH6TBb8dx-A) (Code: idea)
 
+[Online Demo](https://whu-crlc.projects.earthengine.app/view/crlc) 
+
 ## Reference
 If you use the CRLC dataset in your research, please cite the following article:
 
