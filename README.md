@@ -1,7 +1,7 @@
 CRLC: Cross-resolution national-scale land-cover mapping based on noisy label learning: a case study of China
 =
 CRLC are the 10-m resolution land cover maps for China in 2020 achieved by the deep classification network, the estimated overall accuracy is 84.35% ± 0.92%.
-
+Try this [Online Viewer!](https://whu-crlc.projects.earthengine.app/view/crlc) 
 ![fig](figs/Example.png)
 
 ## Map Information
